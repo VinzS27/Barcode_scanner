@@ -9,6 +9,6 @@
 
 ![lista](https://github.com/VinzS27/Barcode_scanner/assets/94700172/f04e2200-65aa-4c1a-ac47-8c759918ea13)
 
-<h2 id="title">File on Uploads folder:/h2>
+<h2 id="title">File on Uploads folder: </h2>
 
 ![Screenshot (599)](https://github.com/VinzS27/Barcode_scanner/assets/94700172/8c2579e4-a159-4c45-aaa4-9b31da1f960f)
