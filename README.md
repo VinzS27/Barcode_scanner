@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Barcode scanner</h1>
 
-![lista](https://github.com/VinzS27/Barcode_scanner/assets/94700172/cb102ff4-bcf3-4e0f-b40f-88b675230061)
+![lista - Copia](https://github.com/VinzS27/Barcode_scanner/assets/94700172/6f8804c9-4b24-476a-ad13-c4473ff7f101)
 
 <h2>Description:</h2>
 <p id="description">- Scan Barcode or QR code with the scanner button.</p>
